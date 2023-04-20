@@ -1,4 +1,3 @@
-# boracodar_cartao-de-embarque
-Desafio #boracodar da Rocketseat
+# Desafio #boracodar da Rocketseat
 
-[image](./assets/cartao_imagem.png)
+![image](./assets/cartao_imagem.png)
